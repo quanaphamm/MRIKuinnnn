@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MRIKuinnnn
+- 👋 Hi, I’m Quan
 - 👀 I’m interested in learning about how to design games in programming languages from simple to complex.
 - 🌱 I’m currently learning about C++
 - 📫 Reach me by: 10999130@cc.peralta.edu
